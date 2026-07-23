@@ -1,4 +1,4 @@
-![Tic Tac Toe Banner](assets/banner.png)
+![Tic Tac Toe Banner](assets/Tic Tac Toe Banner.png)
 # Tic Tac Toe
 
 A Flutter Tic Tac Toe game with two modes: classic pass-and-play on a single
