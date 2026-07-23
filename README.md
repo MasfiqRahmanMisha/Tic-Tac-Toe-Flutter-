@@ -1,4 +1,4 @@
-![Tic Tac Toe Banner](assets/Tic Tac Toe Banner.png)
+![Tic Tac Toe Banner](assets/Banner.png)
 
 # Tic Tac Toe
 
